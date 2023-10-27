@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.656);
+    min-height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    
+}
