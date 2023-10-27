@@ -1,4 +1,3 @@
-import { useMemo } from "react";
 import Card from "../../components/Card/Card";
 import CoinsList from "../../components/CoinsList/CoinsList";
 import FilterBlock from "../../components/FilterBlock/FilterBlock";
