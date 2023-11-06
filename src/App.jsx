@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import Header from "./components/Header/Header";
-import Main from "./pages/Main/Main";
+import Main from "./pages/MainPage/MainPage";
 import { getCoins } from "./api/api";
 import { CoinsContext } from "./context/coinsContext";
 
